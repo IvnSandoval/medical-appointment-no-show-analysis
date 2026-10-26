@@ -178,11 +178,17 @@ Validate demographic and neighborhood attendance patterns using local appointmen
 
 Investigate scheduling, communication, and accessibility barriers to guide targeted patient support.
 
-## Tableau Workbook
+## Interactive Tableau Dashboard
 
-The final Tableau workbook contains the visualizations developed to investigate appointment attendance patterns.
+Explore the interactive Tableau dashboard to examine medical appointment attendance patterns, scheduling lead times, SMS reminders, and patient characteristics.
 
-[View Final Tableau Workbook](Tableau/Cedar_Valley_No_Show.twbx)
+**[View Interactive Tableau Dashboard](https://public.tableau.com/views/PatientAppointmentNo-ShowAnalysisCedarValleyCommunityHealth/AppointmentAttendanceSchedulingPatterns?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+### Tableau Workbook
+
+The original packaged Tableau workbook is also available for download.
+
+[Download Tableau Workbook](Tableau/Cedar_Valley_No_Show.twbx)
 
 ## Project Structure
 
