@@ -1,0 +1,16 @@
+"indicator","category","total_appointments","attended_appointments","missed_appointments","no_show_rate_pct"
+Gender,Female,71840,57246,14594,20.31
+Gender,Male,38687,30962,7725,19.97
+Scholarship,No,99666,79925,19741,19.81
+Scholarship,Yes,10861,8283,2578,23.74
+Hypertension,No,88726,70179,18547,20.90
+Hypertension,Yes,21801,18029,3772,17.30
+Diabetes,No,102584,81695,20889,20.36
+Diabetes,Yes,7943,6513,1430,18.00
+Alcoholism Indicator,No,107167,85525,21642,20.19
+Alcoholism Indicator,Yes,3360,2683,677,20.15
+Handicap Indicator,"0",108286,86374,21912,20.24
+Handicap Indicator,"1",2042,1676,366,17.92
+Handicap Indicator,"2",183,146,37,20.22
+Handicap Indicator,"3",13,10,3,23.08
+Handicap Indicator,"4",3,2,1,33.33

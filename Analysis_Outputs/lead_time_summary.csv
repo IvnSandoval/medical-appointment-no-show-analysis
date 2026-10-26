@@ -1,0 +1,7 @@
+"lead_time_group","total_appointments","attended_appointments","missed_appointments","no_show_rate_pct","attended_rate_pct"
+Same Day,38563,36771,1792,4.65,95.35
+"1-7 Days",32185,24413,7772,24.15,75.85
+"8-14 Days",12025,8361,3664,30.47,69.53
+"15-30 Days",17371,11710,5661,32.59,67.41
+"31+ Days",10378,6953,3425,33.00,67.00
+Unknown,5,0,5,100.00,0.00

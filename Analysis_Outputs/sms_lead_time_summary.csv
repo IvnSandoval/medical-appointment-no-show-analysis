@@ -1,0 +1,11 @@
+"lead_time_group","sms_status","total_appointments","attended_appointments","missed_appointments","no_show_rate_pct","attended_rate_pct"
+Same Day,No SMS Received,38563,36771,1792,4.65,95.35
+"1-7 Days",SMS Received,11548,8804,2744,23.76,76.24
+"1-7 Days",No SMS Received,20637,15609,5028,24.36,75.64
+"8-14 Days",SMS Received,7004,5035,1969,28.11,71.89
+"8-14 Days",No SMS Received,5021,3326,1695,33.76,66.24
+"15-30 Days",SMS Received,10520,7385,3135,29.80,70.20
+"15-30 Days",No SMS Received,6851,4325,2526,36.87,63.13
+"31+ Days",SMS Received,6410,4474,1936,30.20,69.80
+"31+ Days",No SMS Received,3968,2479,1489,37.53,62.47
+Unknown,No SMS Received,5,0,5,100.00,0.00
